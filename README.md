@@ -1,8 +1,3 @@
-# Hi 👋, I'm Prashant Nimbalkar
-
-### Full Stack Web Developer | Python Programmer | AWS Learner
-
-🚀 Passionate about building modern web applications and solving real-world problems through code.
 
 <h1 align="center">Hi 👋, I'm Prashant Nimbalkar</h1>
 <h3 align="center">Full Stack Web Developer | Python Programmer | AWS Learner</h3>
