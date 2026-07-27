@@ -55,8 +55,7 @@
 
 <<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=PrashantN007&theme=tokyonight&hide_border=true" width="48%"/>
-
+<img 
 <img width="48%" src="https://streak-stats.demolab.com?user=PrashantN007&theme=tokyonight&hide_border=true" />
 
 
@@ -64,8 +63,7 @@
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantN007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=PrashantN007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 </p>
 
 ---
