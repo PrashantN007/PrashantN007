@@ -1,89 +1,107 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,18&height=220&section=header&text=PRASHANT%20NIMBALKAR&fontSize=40&fontAlignY=38&desc=Building%20Modern%20Web%20Applications%20&descAlignY=63&descSize=20&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:06b6d4,100:3b82f6&text=PRASHANT%20NIMBALKAR&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Python%20Programmer%20|%20AWS%20Learner&descAlignY=62&animation=fadeIn"/>
 
-<!-- Animated Typing SVG — using svg-readme which is more reliable -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+Building+Scalable+MERN+Applications;%F0%9F%8E%AF+6+Month+of+Full-Stack+Experience;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C;%F0%9F%92%A1+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=👋+Welcome+to+My+GitHub+Profile;💻+Full+Stack+Web+Developer;⚛️+React.js+•+Node.js+•+Express.js+•+MongoDB;🐍+Python+Developer+%26+Problem+Solver;☁️+Learning+AWS+Cloud;🚀+Building+Scalable+and+Modern+Web+Applications;💡+Turning+Ideas+Into+Reality"/>
+</a>
 
-<h1 align="center">Hi 👋, I'm Prashant Nimbalkar</h1>
-<h3 align="center">Full Stack Web Developer | Python Programmer | AWS Learner</h3>
+<br>
 
-<p align="center">
-Passionate about Web Development and Building Real-World Projects 🚀
+<img src="https://komarev.com/ghpvc/?username=PrashantN007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 Hi, I'm Prashant Nimbalkar
+
+### 💻 Full Stack Web Developer | Python Programmer | AWS Learner
+
+🚀 Passionate about developing modern, scalable, and user-friendly web applications.
+
+💡 I enjoy transforming innovative ideas into real-world digital solutions using modern technologies.
+
+🌱 Currently improving my skills in **React.js, Node.js, MongoDB, Express.js, AWS Cloud, and System Design.**
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,java"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,aws"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Statistics
 
-* 💻 Web Developer & Programmer
-* 🌱 Currently Learning Full Stack Development
-* ☁️ Exploring AWS & Cloud Technologies
-* 🐍 Python Enthusiast
-* 🧠 Strong Problem-Solving & Logical Thinking Skills
-* 🚀 Passionate About Building Modern Web Applications
-* 📚 Always Learning New Technologies
+<p align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantN007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🛠️ Tech Stack
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantN007&theme=tokyonight&hide_border=true"/>
 
-### Frontend
+</p>
 
-* HTML5
-* CSS3
-* JavaScript
-* React.Js
+<p align="center">
 
-### Backend
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantN007&layout=compact&theme=tokyonight&hide_border=true"/>
 
-* Node.js
-
-### Programming Languages
-
-* Python
-* java
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* AWS
+</p>
 
 ---
 
-## 🎯 Current Goals
+## 🏆 GitHub Trophies
 
-* Master Full Stack Web Development
-* Build Industry-Level Projects
-* Learn Advanced Backend Development
-* Explore Cloud Computing with AWS
-* Contribute to Open Source Projects
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=PrashantN007&theme=algolia&no-frame=true&row=2&column=4"/>
 
-## 📂 Featured Projects
-
-* 🌐 Personal Portfolio Website
-* 💊 Online Medicine Purchase System
-* 🚀 More Projects Coming Soon
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* GitHub: https://github.com/PrashantN007
-* linkedin:https://www.linkedin.com/in/prashant-nimbalkar-05213928a
+<p align="center">
+
+<a href="https://github.com/PrashantN007">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/prashant-nimbalkar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I enjoy solving coding challenges and turning ideas into real-world applications.
+### ⭐ "Code • Learn • Build • Repeat"
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:06b6d4,100:3b82f6"/>
 
-⭐ Thanks for visiting my profile!
-
+</div>
