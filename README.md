@@ -27,16 +27,16 @@ Passionate about Web Development and Building Real-World Projects 🚀
 * HTML5
 * CSS3
 * JavaScript
+* React.Js
 
 ### Backend
 
 * Node.js
-* Express.js
 
 ### Programming Languages
 
 * Python
-* JavaScript
+* java
 
 ### Tools & Platforms
 
