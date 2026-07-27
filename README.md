@@ -55,7 +55,7 @@
 
 <<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrashantN007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://streak-stats.demolab.com?user=PrashantN007&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=PrashantN007&theme=tokyonight&hide_border=true" />
 
