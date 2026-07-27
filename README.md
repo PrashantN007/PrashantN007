@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:06b6d4,100:3b82f6&text=PRASHANT%20NIMBALKAR&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Python%20Programmer%20|%20AWS%20Learner&descAlignY=62&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=PRASHANT%20NIMBALKAR&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descSize=20&descAlignY=65" />
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=👋+Welcome+to+My+GitHub+Profile;💻+Full+Stack+Web+Developer;⚛️+React.js+•+Node.js+•+Express.js+•+MongoDB;🐍+Python+Developer+%26+Problem+Solver;☁️+Learning+AWS+Cloud;🚀+Building+Scalable+and+Modern+Web+Applications;💡+Turning+Ideas+Into+Reality"/>
 </a>
