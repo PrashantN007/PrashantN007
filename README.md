@@ -1,4 +1,10 @@
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=YOGESH%20MORE&fontSize=60&fontAlignY=35&desc=MERN%20Stack%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+
+<!-- Animated Typing SVG — using svg-readme which is more reliable -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+Building+Scalable+MERN+Applications;%F0%9F%8E%AF+2.6%2B+Years+of+Full-Stack+Experience;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C+Docker;%F0%9F%92%A1+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Prashant Nimbalkar</h1>
 <h3 align="center">Full Stack Web Developer | Python Programmer | AWS Learner</h3>
 
