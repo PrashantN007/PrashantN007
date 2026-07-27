@@ -35,7 +35,7 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
 </p>
 
 ### Programming
@@ -45,18 +45,20 @@
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,aws"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,,firebase,aws"/>
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantN007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<<p align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantN007&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrashantN007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=PrashantN007&theme=tokyonight&hide_border=true" />
+
 
 </p>
 
