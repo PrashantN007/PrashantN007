@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+⚡Building+Scalable+MERN+Applications;%F0%9F%8E%AF+6%2B+Month+of+Full-Stack+Experience;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C;%F0%9F%92%A1+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+⚡Building+Scalable+MERN+Applications;%F0%9F%8E%AF+6%2B+Month+of+Full-Stack+Experience;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C;%F0%9F%92%A1+Turning+Ideas+into+Reality" alt="Typing SVG"/></a>
 
 
 <br>
