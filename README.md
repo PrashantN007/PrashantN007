@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+<div align="centre">
 # 👋 Hi, I'm Prashant Nimbalkar
 
 ### 💻 Full Stack Web Developer | Python Programmer | AWS Learner
@@ -48,6 +48,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,aws"/>
 </p>
 
+</div>
 ---
 
 # 💼 Professional Experience
@@ -55,7 +56,7 @@
 ## 🌐 Project Trainee Intern — Web Development
 ### ECS Software Technology, Karad
 
-📅 **Duration:** Internship
+📅 **Duration:Jun 2023 -July 2023** 
 
 - 💻 Worked as a **Project Trainee Intern** in the Web Development domain.
 - 🎨 Developed responsive and user-friendly web applications.
@@ -72,7 +73,7 @@
 ## 🚀 Full Stack Web Developer Intern
 ### Amdox Technologies
 
-📅 **Apr 2026 – Jun 2026**
+📅 **Duration: Apr 2026 – Jun 2026**
 
 - Developed responsive full-stack web applications.
 - Built RESTful APIs using Express.js & Node.js.
@@ -82,7 +83,7 @@
 
 **Tech Stack**
 
-`HTML` `CSS` `Bootstrap` `JavaScript` `React.js` `Node.js`  `MongoDB` `EmailJs
+`HTML` `CSS` `Bootstrap` `JavaScript` `React.js` `Node.js`  `MongoDB` `EmailJs`
 
 
 ---
