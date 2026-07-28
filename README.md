@@ -4,9 +4,8 @@
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Prashant+Nimbalkar;💻+Full+Stack+Web+Developer;⚛️+React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;🐍+Python+Developer+%7C+Problem+Solver;☁️+AWS+Cloud+Learner;🚀+Building+Scalable+%26+High-Performance+Web+Applications;🌱+Always+Learning+New+Technologies;💡+Turning+Ideas+Into+Real-World+Solutions;⭐+Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+Building+Scalable+MERN+Applications;%F0%9F%8E%AF+2.6%2B+Years+of+Full-Stack+Experience;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C+Docker;%F0%9F%92%A1+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+
 
 <br>
 
