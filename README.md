@@ -122,10 +122,11 @@
 ---
 # 🎓 Education
 
-| 🎓 Degree | 🏛️ Institution | 📅 Duration | 📍 Status |
+| 🎓 Degree | 🏛️ University | 📅 Duration | 📍 Status |
 |-----------|----------------|------------|-----------|
-| **B.Tech in Artificial Intelligence & Data Science** | Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere | **2023 – 2027** | Pursuing |
-| **Diploma in Computer Science & Engineering** | Government Polytechnic, Karad | **2020 – 2023** | Completed |
+| **B.Tech in Artificial Intelligence & Data Science** | Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere | **2024 – 2027** | Pursuing |
+| **Diploma in Computer Science & Engineering** | MSBTE,Mumbai | **2022 – 2024** | Completed |
+| **HSC (12th)** | Maharashtra State Board of Secondary and Higher Secondary Education | **2022** | Completed |
 | **SSC (10th)** | Maharashtra State Board | **2020** | Completed |
 
 ---
