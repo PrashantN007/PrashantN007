@@ -155,8 +155,13 @@
 ---
 
 <div align="center">
-### ⭐ "Code • Learn • Build • Repeat"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:06b6d4,100:3b82f6"/>
+<h2>✨ Thanks for Visiting My Profile ✨</h2>
+
+<h3>💻 Code • Learn • Build • Repeat 🚀</h3>
+
+<p><b>Building Modern Web Applications with Passion & Innovation.</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:06b6d4,100:2563eb"/>
 
 </div>
