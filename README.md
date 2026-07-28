@@ -65,7 +65,7 @@
 
 **Tech Stack**
 
-`HTML` `CSS` `Bootstrap` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `Git`
+`HTML` `CSS` `Bootstrap` `JavaScript` 
 
 ---
 
@@ -82,7 +82,7 @@
 
 **Tech Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap`
+`HTML` `CSS` `Bootstrap` `JavaScript` `React.js` `Node.js`  `MongoDB` `EmailJs
 
 
 ---
