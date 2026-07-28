@@ -14,7 +14,7 @@
 
 ---
 
-#                         👋 Hi, I'm Prashant Nimbalkar
+# 👋 Hi, I'm Prashant Nimbalkar
 
 ### 💻 Full Stack Web Developer | Python Programmer | AWS Learner
 
@@ -35,7 +35,7 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
 </p>
 
 ### Programming
@@ -45,26 +45,45 @@
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,aws"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,aws"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 💼 Professional Experience
 
-<p align="center">
+## 🌐 Project Trainee Intern — Web Development
+### ECS Software Technology, Karad
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantN007&show_icons=true&theme=tokyonight&hide_border=true"/>
+📅 **Duration:** Internship
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantN007&theme=tokyonight&hide_border=true"/>
+- 💻 Worked as a **Project Trainee Intern** in the Web Development domain.
+- 🎨 Developed responsive and user-friendly web applications.
+- ⚙️ Integrated frontend with backend services.
+- 🗄️ Worked with databases and real-world project workflows.
+- 🔧 Improved debugging, testing, and deployment skills.
 
-</p>
+**Tech Stack**
 
-<p align="center">
+`HTML` `CSS` `Bootstrap` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `Git`
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantN007&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
+## 🚀 Full Stack Web Developer Intern
+### Amdox Technologies
+
+📅 **Apr 2026 – Jun 2026**
+
+- Developed responsive full-stack web applications.
+- Built RESTful APIs using Express.js & Node.js.
+- Designed MongoDB database schemas.
+- Collaborated using Git & GitHub.
+- Improved website performance and UI/UX.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap`
+
 
 ---
 
