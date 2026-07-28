@@ -85,6 +85,41 @@
 
 
 ---
+# 🚀 Projects:
+
+## 💊Medico.com
+
+### Tech Stack
+
+`HTML` `CSS` `Bootstrap` `JavaScript` `Firebase``EmailJs`
+
+### Features
+
+- 🛒 Online Medicine Ordering
+- 👨‍⚕️ Doctor Search
+- 📅 Appointment Booking
+- 🛍️ Shopping Cart
+- 🔐 Admin Dashboard
+- 📧 EmailJS Integration
+
+---
+
+## 🌐 Personal Portfolio Website
+
+### Tech Stack
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+### Features
+
+- 👨‍💻 About Me
+- 🛠️ Skills Showcase
+- 💼 Experience
+- 🚀 Projects
+- 📱 Responsive Design
+- 📩 Contact Form
+
+---
 
 ## 🏆 GitHub Trophies
 
