@@ -13,7 +13,6 @@
 </div>
 
 ---
-<div align="centre">
 # 👋 Hi, I'm Prashant Nimbalkar
 
 ### 💻 Full Stack Web Developer | Python Programmer | AWS Learner
@@ -48,7 +47,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,aws"/>
 </p>
 
-</div>
 ---
 
 # 💼 Professional Experience
