@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:06b6d4,100:3b82f6&text=PRASHANT%20NIMBALKAR&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Python%20Programmer%20|%20AWS%20Learner&descAlignY=62&animation=fadeIn"/>
 
+<br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Prashant+Nimbalkar;💻+Full+Stack+Web+Developer;⚛️+React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;🐍+Python+Developer+%7C+Problem+Solver;☁️+AWS+Cloud+Learner;🚀+Building+Scalable+%26+High-Performance+Web+Applications;🌱+Always+Learning+New+Technologies;💡+Turning+Ideas+Into+Real-World+Solutions;⭐+Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" />
 </a>
